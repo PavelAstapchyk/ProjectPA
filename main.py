@@ -155,6 +155,7 @@ import numpy as np
 #             else:
 #                 is_jump = False
 #                 jump_hight = 2.7
+#                 player_y = 390
 #
 #         if spears:
 #             for (i, el) in enumerate(spears):
